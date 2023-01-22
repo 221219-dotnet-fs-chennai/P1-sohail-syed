@@ -8,7 +8,7 @@ namespace datahandle
     {
         public Logging()
         {
-            Log.Logger = new LoggerConfiguration().WriteTo.File(@"C:\Users\ASUS\revature\Abdul\soluprogram\TrainerLog.txt").CreateLogger();
+            Log.Logger = new LoggerConfiguration().WriteTo.File(@"C:\Users\ASUS\revature\sohail\soluprogram\TrainerLog.txt").CreateLogger();
         }
 
 
