@@ -9,7 +9,7 @@ namespace UserProfile
 
     public class MyProfile
     {
-        private string Connection = File.ReadAllText(@"C:\Users\ASUS\revature\Abdul\soluprogram\connectionfile.txt");
+        private string Connection = File.ReadAllText(@"C:\Users\ASUS\revature\sohail\soluprogram\TrainerLog.txt");
 
         public void MyProfile1(int usid)
         {
